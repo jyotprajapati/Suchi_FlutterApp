@@ -1,0 +1,12 @@
+3
+push 15
+pop
+top
+push 20
+push 30
+size
+display
+pop
+display
+push 200
+quit
